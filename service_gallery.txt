@@ -1,0 +1,137 @@
+<section class="services" id="services">
+      <h1 class="heading">
+            <span>s</span>
+            <span>e</span>
+            <span>r</span>
+            <span>v</span>
+            <span>i</span>
+            <span>c</span>
+            <span>e</span>
+            <span>s</span>
+      </h1>
+      <div class="box-container">
+            <div class="box">
+                  
+                  <i class="fas fa-utensils"></i>
+                  <h3>food and drinks</h3>
+                  <p>Food like at home</p>
+            </div>
+            <div class="box">
+                  <i class="fas fa-bullhorn"></i>
+                  <h3>safety guide</h3>
+                  <p>Best suitable for all ages and saftey is always our priority</p>
+            </div>
+            <div class="box">
+                  <i class="fas fa-globe-asia"></i>
+                  <h3>around the world</h3>
+                  <p>Experience the Himalayan Mountains to Deccan plateaus</p>
+            </div>
+            <div class="box">
+                  <i class="fas fa-plane"></i>
+                  <h3>fastest travel</h3>
+                  <p>Best travel Experiences with affordable budgets</p>
+            </div>
+            <div class="box">
+                  <i class="fas fa-hiking"></i>
+                  <h3>Adventures</h3>
+                  <p>Trekking to beaches</p>
+            </div>
+      </div>
+</section>
+
+<section class="gallery" id="gallery">
+      <h1 class="heading">
+            <span>g</span>
+            <span>a</span>
+            <span>l</span>
+            <span>l</span>
+            <span>e</span>
+            <span>r</span>
+            <span>y</span>
+      </h1>
+
+      <div class="box-container">
+            <div class="box">
+                  <img src="g-1.jpg" alt="">
+                  <div class="content">
+                        <h3>amazing places</h3>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing
+                              elit. Ducimus, tenetur</p>
+                        <a href="#" class="btn"></a>
+                  </div>
+            </div>
+            <div class="box">
+                  <img src="g-2.jpg" alt="">
+                  <div class="content">
+                        <h3>amazing places</h3>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing
+                              elit. Ducimus, tenetur</p>
+                        <a href="#" class="btn"></a>
+                  </div>
+            </div>
+            <div class="box">
+                  <img src="g-3.jpg" alt="">
+                  <div class="content">
+                        <h3>amazing places</h3>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing
+                              elit. Ducimus, tenetur</p>
+                        <a href="#" class="btn"></a>
+                  </div>
+            </div>
+            <div class="box">
+                  <img src="g-4.jpg" alt="">
+                  <div class="content">
+                        <h3>amazing places</h3>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing
+                              elit. Ducimus, tenetur</p>
+                        <a href="#" class="btn"></a>
+                  </div>
+            </div>
+            <div class="box">
+                  <img src="g-5.jpg" alt="">
+                  <div class="content">
+                        <h3>amazing places</h3>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing
+                              elit. Ducimus, tenetur</p>
+                        <a href="#" class="btn"></a>
+                  </div>
+            </div>
+            <div class="box">
+                  <img src="g-6.jpg" alt="">
+                  <div class="content">
+                        <h3>amazing places</h3>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing
+                              elit. Ducimus, tenetur</p>
+                        <a href="#" class="btn"></a>
+                  </div>
+            </div>
+            <div class="box">
+                  <img src="g-7.jpg" alt="">
+                  <div class="content">
+                        <h3>amazing places</h3>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing
+                              elit. Ducimus, tenetur</p>
+                        <a href="#" class="btn"></a>
+                  </div>
+            </div>
+            <div class="box">
+                  <img src="g-8.jpg" alt="">
+                  <div class="content">
+                        <h3>amazing places</h3>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing
+                              elit. Ducimus, tenetur</p>
+                        <a href="#" class="btn"></a>
+                  </div>
+            </div>
+            <div class="box">
+                  <img src="g-9.jpg" alt="">
+                  <div class="content">
+                        <h3>amazing places</h3>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing
+                              elit. Ducimus, tenetur</p>
+                        <a href="#" class="btn"></a>
+                  </div>
+            </div>
+      </div>
+
+</section>

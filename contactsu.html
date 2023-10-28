@@ -1,0 +1,58 @@
+<html>
+<head>CONTACTS LIST</head>
+<body>
+<div class="contacts table" aria-labelledby="contacts-caption-text">
+    <span class="caption" id="contacts-caption-text">Responsive contact list</span>
+    <div class="contacts-header thead">
+      <span class="th" id="th-name">Name:</span>
+      <span class="th" id="th-org">Organization:</span>
+      <span class="th" id="th-phone">Phone:</span>
+      <span class="th" id="th-email">Email:</span>
+    </div>  
+    <ul class="tbody">
+      <li class="tr" itemscope itemtype="http://schema.org/Person">
+        <span class="td">
+          <span class="label">Name:</span>
+          <span class="data" itemprop="name" aria-labelledby="th-name">Ola Nordmann</span>
+        </span>
+        <span class="td" itemscope itemtype="http://schema.org/Organization">
+          <span class="label">Organisation:</span>
+          <span class="data" itemprop="name" aria-labelledby="th-org">Acme Corp</span>
+        </span>
+        <span class="td">
+          <span class="label">Phone:</span>
+          <span class="data" itemprop="telephone" aria-labelledby="th-phone">+47 12 34 56 78 90</span>
+        </span>
+        <span class="td">
+            <span class="label">Name:</span>
+            <span class="data" itemprop="name" aria-labelledby="th-name">Kasina Saaket</span>
+            <span class="data" itemprop="telephone" aria-labelledby="th-phone">+91 99 48 82 74 91</span>
+        </span>
+        
+        <span class="td">
+          <span class="label">Email:</span>
+          <span class="data" itemprop="email" aria-labelledby="th-email"><a href="mailto:ola.nordmann@acme-corp.no">Email</a></span>
+        </span>
+      </li>
+      <li class="tr" itemscope itemtype="http://schema.org/Person">
+        <span class="td">
+          <span class="label">Name:</span>
+          <span class="data" itemprop="name" aria-labelledby="th-name">Kari Nordmann</span>
+        </span>
+        <span class="td" itemscope itemtype="http://schema.org/Organization">
+          <span class="label">Organisation:</span>
+          <span class="data" itemprop="name" aria-labelledby="th-org">Acme Corp</span>
+        </span>
+        <span class="td">
+          <span class="label">Phone:</span>
+          <span class="data" itemprop="telephone" aria-labelledby="th-phone">+47 12 34 56 78 90</span>
+        </span>
+        <span class="td">
+          <span class="label">Email:</span>
+          <span class="data" itemprop="email" aria-labelledby="th-email"><a href="mailto:kari.nordmann@acme-corp.no">Email</a></span>
+        </span>
+      </li>    
+    </ul>
+  </div>
+  </body>
+  </html>
